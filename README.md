@@ -44,4 +44,11 @@ Example Output:
 The repository includes a sample GIF of the sigil for the phrase: "Every phrase has a unique sigil."
 
 License:
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under a Creative Commons Attribution 4.0 International License. You are free to:
+- Share: Copy and redistribute the material in any medium or format.
+- Adapt: Remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+For more information, visit: https://creativecommons.org/licenses/by/4.0/
